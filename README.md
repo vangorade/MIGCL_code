@@ -1,6 +1,7 @@
-The code repository for paper #MiGCL: Multi-granular Contrastive Learning for Self-supervised Pre-training
+The official pytorch code repository for paper [MiGCL: Multi-granular Contrastive Learning for Self-supervised Pre-training]()
 
 [MIGCL_fig_github.pdf](https://github.com/vangorade/MIGCL_code/files/15319722/MIGCL_fig_github.pdf)
+[embed](https://github.com/vangorade/MIGCL_code/files/15319722/MIGCL_fig_github.pdf)[/embed]
 
 Abstract. Self-supervised learning (SSL) has become increasingly
 promising across various domains, particularly in vision tasks,
